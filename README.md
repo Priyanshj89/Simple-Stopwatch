@@ -1,11 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
-react-router-dom library was used to enable routing functionality<br />
-Node Modules<br /><br />
-A simple project implementing basic features of Stopwatch/timer.<br />
-3 buttons - start, stop, reset<br />
-You can view the button history as well as the full history<br />
-History is displayed with the most recent event on top<br/>
-History can also be cleared
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
+- react-router-dom library was used to enable routing functionality<br />
+- Node Modules<br /><br />
+- A simple project implementing basic features of Stopwatch/timer.<br />
+- 3 buttons present- start, stop, reset<br />
+- You can view the button history as well as the full history<br />
+- History is displayed with the most recent event on top<br/>
+- History can also be cleared<br/>
+- useState hook is used to add React state to functional components.
 
 #### Note: Full history implies that even if you refresh you page the history remains. It was implemented using Localstorage.
 
