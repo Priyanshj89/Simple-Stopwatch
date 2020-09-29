@@ -4,6 +4,7 @@ Node Modules<br /><br />
 A simple project implementing basic features of Stopwatch/timer.<br />
 3 buttons - start, stop, reset<br />
 You can view the button history as well as the full history<br />
+History is displayed with the most recent event on top<br/>
 History can also be cleared
 
 #### Note: Full history implies that even if you refresh you page the history remains. It was implemented using Localstorage.
