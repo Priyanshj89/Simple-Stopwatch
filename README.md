@@ -1,6 +1,7 @@
 
 ### Description
 - A simple project implementing basic features of Stopwatch/timer.<br />
+-	Precision of Mill-second. Hour shows up when minutes pass 60.<br/>
 - 3 buttons present- start, stop, reset<br />
 - You can view the button history as well as the full history<br />
 - History is displayed with the most recent event on top<br/>
