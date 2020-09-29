@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
-react-router-dom library was used to enable routing functionality<br /><br />
+react-router-dom library was used to enable routing functionality<br />
+Node Modules<br /><br />
 A simple project implementing basic features of Stopwatch/timer.<br />
 3 buttons - start, stop, reset<br />
 You can view the button history as well as the full history<br />
