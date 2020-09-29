@@ -3,9 +3,9 @@ react-router-dom library was used to enable routing functionality<br /><br />
 A simple project implementing basic features of Stopwatch/timer.<br />
 3 buttons - start, stop, reset<br />
 You can view the button history as well as the full history<br />
-#### Note: Full history implies that even if you refresh you page the history remains. It was implemented using Localstorage.
-<br />
+History can also be cleared
 
+#### Note: Full history implies that even if you refresh you page the history remains. It was implemented using Localstorage.
 
 ## Available Scripts
 
